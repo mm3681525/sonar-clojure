@@ -97,3 +97,6 @@ At the moment, SonarClojure supports up to version 8.6.1 of SonarQube.
 ## License
 
 SonarClojure is open-sourced software licensed under the [MIT license](https://github.com/fsantiag/sonar-clojure/blob/master/LICENSE).
+
+## Reference URL
+https://dev.solita.fi/2019/03/11/code-quality-inspection-for-clojure-with-sonarqube.html
